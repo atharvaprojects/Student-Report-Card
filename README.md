@@ -18,5 +18,5 @@ A Java project that generates a student's report card using basic programming co
 2. Compile and run `StudentReportCard.java`.
 
 ## Author:
-- Atharva Pathak ([LinkedIn Profile Link](www.linkedin.com/in/atharva-pathak007))
+- Atharva Pathak ([LinkedIn Profile Link](https://www.linkedin.com/in/atharva-pathak007/))
 
